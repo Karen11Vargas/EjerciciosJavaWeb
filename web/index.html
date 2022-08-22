@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Mi primera Web</title>
+        <meta charset="UTF-8"><!--Caracteres especiales-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="Estilo/Estilos.css" rel="stylesheet" type="text/css"/>
+    </head>
+    
+    <body>
+        <h1>Calculadora</h1>
+       <!--Para agreagar stilos se crea una carpeta llamada estilo en web pages y dentro se agrega un nuevo cascading-->
+      <!--  metodo: forma como se envian action: a donde se redirecciona-->
+      <form method="post" action="Logica">
+            
+            <label>Numero 1:</label>
+            <!--Atributos inportantes en el input: typo, id, name (importante para java)-->
+            <input type="number" name="numero1" ><br>
+            <label>Numero 2:</label>
+            <input type="number" name="numero2"><br>
+            <br>
+            <input type="submit" value="Suma" name="operacion" class="operaciones">
+            <input type="submit" value="Resta" name="operacion" class="operaciones"> 
+            <input type="submit" value="Multiplicacion" name="operacion" class="operaciones"> 
+            <input type="submit" value="Division" name="operacion" class="operaciones">
+            <input type="submit" value="Seno" name="operacion" class="operaciones"> 
+
+              
+        </form>
+        
+    </body>
+</html>
