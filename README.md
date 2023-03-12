@@ -4,15 +4,15 @@ Dos Ejercicios con Java Web
 <h2 align="center"> Cuestionario en Java Web</h2>
 
 En esta programa hay 3 encuentas sobre diferentes temas, en este al terminar de llenar el formulario te indica cual es el resultado de cada pregunta.
-<p align="center"><img src="Img_README/Java01.png"/></p> 
-<p align="center"><img src="Img_README/Java02.png"/></p> 
-<p align="center"><img src="Img_README/Java03.png"/></p> 
+<p align="center"><img src="Img_README/JAVA01.png"/></p> 
+<p align="center"><img src="Img_README/JAVA02.png"/></p> 
+<p align="center"><img src="Img_README/JAVA03.png"/></p> 
 
 <h2 align="center"> Calculadora en Java Web</h2>
 
 El segundo ejercicio, se trata de un programa de calculadora realizado con java Web
-<p align="center"><img src="Img_README/Java04.png"/></p> 
-<p align="center"><img src="Img_README/Java05.png"/></p> 
+<p align="center"><img src="Img_README/JAVA04.png"/></p> 
+<p align="center"><img src="Img_README/JAVA05.png"/></p> 
 
 
 
